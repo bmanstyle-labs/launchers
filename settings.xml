@@ -1,0 +1,570 @@
+<?xml version="1.0"?>
+<HubSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>2</Version>
+  <Installations>
+    <GameLocation>
+      <Game>StepMania</Game>
+      <Directory />
+    </GameLocation>
+    <GameLocation>
+      <Game>ITGmania</Game>
+      <Directory />
+    </GameLocation>
+    <GameLocation>
+      <Game>ProjectOutFox</Game>
+      <Directory />
+    </GameLocation>
+  </Installations>
+  <Tiles>
+    <Tile>
+      <Id>stepmania</Id>
+      <Title>StepMania</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image>stepmania.png</Image>
+      <Hidden>false</Hidden>
+    </Tile>
+    <Tile>
+      <Id>max</Id>
+      <Title>ITGmania</Title>
+      <Game>ITGmania</Game>
+      <Theme>Simply Love</Theme>
+      <Skin>cel</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image>dance1.png</Image>
+      <Hidden>false</Hidden>
+    </Tile>
+    <Tile>
+      <Id>max2</Id>
+      <Title>Project OutFox</Title>
+      <Game>ProjectOutFox</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image>dance2.png</Image>
+      <Hidden>false</Hidden>
+    </Tile>
+    <Tile>
+      <Id>extreme</Id>
+      <Title>Tile 4</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>supernova</Id>
+      <Title>Tile 5</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>supernova2</Id>
+      <Title>Tile 6</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>ddrx</Id>
+      <Title>Tile 7</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>ddrx2</Id>
+      <Title>Tile 8</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>ddra</Id>
+      <Title>Tile 9</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>ddra20</Id>
+      <Title>Tile 10</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>ddra3</Id>
+      <Title>Tile 11</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>ddrworld</Id>
+      <Title>Tile 12</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>itg</Id>
+      <Title>Tile 13</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>itg2</Id>
+      <Title>Tile 14</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-15</Id>
+      <Title>Tile 15</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-16</Id>
+      <Title>Tile 16</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-17</Id>
+      <Title>Tile 17</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-18</Id>
+      <Title>Tile 18</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-19</Id>
+      <Title>Tile 19</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-20</Id>
+      <Title>Tile 20</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-21</Id>
+      <Title>Tile 21</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-22</Id>
+      <Title>Tile 22</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-23</Id>
+      <Title>Tile 23</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-24</Id>
+      <Title>Tile 24</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-25</Id>
+      <Title>Tile 25</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-26</Id>
+      <Title>Tile 26</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-27</Id>
+      <Title>Tile 27</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-28</Id>
+      <Title>Tile 28</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-29</Id>
+      <Title>Tile 29</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-30</Id>
+      <Title>Tile 30</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-31</Id>
+      <Title>Tile 31</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-32</Id>
+      <Title>Tile 32</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-33</Id>
+      <Title>Tile 33</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-34</Id>
+      <Title>Tile 34</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-35</Id>
+      <Title>Tile 35</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-36</Id>
+      <Title>Tile 36</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-37</Id>
+      <Title>Tile 37</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-38</Id>
+      <Title>Tile 38</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-39</Id>
+      <Title>Tile 39</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-40</Id>
+      <Title>Tile 40</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-41</Id>
+      <Title>Tile 41</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-42</Id>
+      <Title>Tile 42</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-43</Id>
+      <Title>Tile 43</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-44</Id>
+      <Title>Tile 44</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-45</Id>
+      <Title>Tile 45</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-46</Id>
+      <Title>Tile 46</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-47</Id>
+      <Title>Tile 47</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-48</Id>
+      <Title>Tile 48</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-49</Id>
+      <Title>Tile 49</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+    <Tile>
+      <Id>slot-50</Id>
+      <Title>Tile 50</Title>
+      <Game>StepMania</Game>
+      <Theme>default</Theme>
+      <Skin>default</Skin>
+      <Pack>-none-</Pack>
+      <Announcer>-none-</Announcer>
+      <Image />
+      <Hidden>true</Hidden>
+    </Tile>
+  </Tiles>
+</HubSettings>

@@ -1,6 +1,11 @@
 LAUNCHCTRL QUICK SETUP
 
 INSTALLATION TAB
+This copy starts with three visible tiles: StepMania, ITGmania and Project
+OutFox. Installation paths start blank. Settings are saved in settings.xml
+beside LaunchCtrl.exe, separately from other launcher copies. Start from a
+fresh copy without settings.xml when sharing it with a new user.
+
 Select the game installation root: the folder containing its Program folder.
 You can also select the Program folder or enter the game's executable.
 Do not select Preferences.ini, Save, or Songs.
