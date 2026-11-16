@@ -18,6 +18,9 @@ Click Load / refresh. The Preferences line shows which file LaunchCtrl will
 use; check it before applying presets. Start the game once first if it has
 not created its preferences yet.
 
+StepMania's Preset controls show themes in a scrollable list. Select a theme,
+then use Apply or Apply and launch to use it.
+
 If Portable.ini is in the installation root, preferences are at:
   <installation root>\Save\Preferences.ini
 Otherwise, preferences are under %APPDATA%:

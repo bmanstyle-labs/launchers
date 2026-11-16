@@ -18,6 +18,9 @@ not select `Preferences.ini`, `Save`, or `Songs`.
 Click **Load / refresh**. Check the displayed **Preferences** path before
 applying presets. Start the game once first if it has not created preferences.
 
+StepMania's Preset controls show themes in a scrollable list. Select a theme,
+then use **Apply** or **Apply and launch** to use it.
+
 If `Portable.ini` is in the installation root, preferences are at
 `<installation root>\Save\Preferences.ini`. Otherwise, they are under
 `%APPDATA%`:
